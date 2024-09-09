@@ -1,0 +1,16 @@
+.auth {
+  display: flex;
+  flex-direction: column;
+  max-width: calc(100vw - 120px);
+  width: 100%;
+  margin: 50px auto 0;
+}
+.auth__title {
+  font-size: 40px;
+  margin: 0;
+  line-height: 48.76px;
+  font-weight: 700;
+  color: #fff;
+}
+
+/*# sourceMappingURL=auth.css.map */
