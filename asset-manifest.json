@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8ff88e2.css",
+    "main.js": "/static/js/main.ab5a569d.js",
+    "static/js/453.5e4fbd8e.chunk.js": "/static/js/453.5e4fbd8e.chunk.js",
+    "static/media/Montserrat-Bold.woff": "/static/media/Montserrat-Bold.f0032576ac7462ccbd0c.woff",
+    "static/media/Montserrat-Medium.woff": "/static/media/Montserrat-Medium.2a3e005f58bfca9c117e.woff",
+    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.a04b5e24af93da353f0e.woff",
+    "static/media/Montserrat-SemiBold.woff": "/static/media/Montserrat-SemiBold.16e8721ef5837bc6375e.woff",
+    "static/media/Montserrat-Medium.woff2": "/static/media/Montserrat-Medium.e06c107cc50506570954.woff2",
+    "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.58a8d7ebc386843b62c5.woff2",
+    "static/media/Montserrat-Bold.woff2": "/static/media/Montserrat-Bold.0af89c10df9bc2f8d646.woff2",
+    "static/media/Montserrat-SemiBold.woff2": "/static/media/Montserrat-SemiBold.109e3207d9afea8524be.woff2",
+    "static/media/law.svg": "/static/media/law.dcdbd8b04cc40f2dc6d346f6446e2e66.svg",
+    "static/media/search.svg": "/static/media/search.ee6a6ce3f1c83ec17541.svg",
+    "static/media/carbon_charging-station.svg": "/static/media/carbon_charging-station.59c46dfbce77a7c5a3f2978a25ce29bd.svg",
+    "static/media/menu.svg": "/static/media/menu.ee7a535c39629dd59bdc193b0afd0a05.svg",
+    "static/media/vector.svg": "/static/media/vector.23d9f3d445fd152ecbe135adf5d49a8a.svg",
+    "index.html": "/index.html",
+    "static/media/profile.svg": "/static/media/profile.e97d946bb061f6eaef9a2d1eb5e37219.svg",
+    "main.d8ff88e2.css.map": "/static/css/main.d8ff88e2.css.map",
+    "main.ab5a569d.js.map": "/static/js/main.ab5a569d.js.map",
+    "453.5e4fbd8e.chunk.js.map": "/static/js/453.5e4fbd8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ff88e2.css",
+    "static/js/main.ab5a569d.js"
+  ]
+}
